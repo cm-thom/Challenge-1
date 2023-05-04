@@ -10,7 +10,8 @@ Challenge 1 is a refactor of the HTML and CSS for the landing page of a SEO comp
 
 ## Link
 
-https://cm-thom.github.io/Challenge-1/ 
+https://cm-thom.github.io/html-code-refactor/
+
 
 ## User Story
 
