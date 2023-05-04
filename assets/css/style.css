@@ -1,3 +1,5 @@
+/* div references updated to their semantic counterpart in the html. multiple classes that included redundant styling condensed to include that styling (fonts, sizes, colors, etc. in the main parent element (main, section, article, aside, etc.) */
+
 * {
     box-sizing: border-box;
     padding: 0;
