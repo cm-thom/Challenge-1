@@ -6,7 +6,7 @@ Challenge 1 is a refactor of the HTML and CSS for the landing page of a SEO comp
 
 ## Screenshot
 
-<img src="./assets/images/horiseon.png">
+<img src="./assets/images/horiseon.PNG">
 
 ## Link
 
